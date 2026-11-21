@@ -1,3 +1,5 @@
+![waformat](assets/preview.png)
+
 # waformat
 
 Paste AI output into WhatsApp and the `**` and `##` show up raw. waformat
